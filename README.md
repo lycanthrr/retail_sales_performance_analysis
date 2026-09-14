@@ -13,11 +13,11 @@ This project analyzes retail sales performance through a full ELT pipeline:
 		
 	One notable finding: the North region shows a meaningfully higher AOV than East, pointing to a regional difference worth digging into further.
 	
- [-] included screenshots of streamlit dashboard visual
+ [+] included screenshots of streamlit dashboard visual
 	(as a PNG) and tagged with an underscore followed by st (_st)
 
- [-] sales.csv is the raw dataset included
+ [+] sales.csv is the raw dataset included
 
- [-] ipynb file: snowflake/snowpark (SQL/python)
+ [+] ipynb file: snowflake/snowpark (SQL/python)
  
- [-] streamlit_app .py file: (streamlit python code for dashboard visual)
+ [+] streamlit_app .py file: (streamlit python code for dashboard visual)
