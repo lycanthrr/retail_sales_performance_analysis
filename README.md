@@ -1,8 +1,7 @@
 # Retail Sales Performance Analysis
 
 This project analyzes retail sales performance through a full ELT pipeline: 
-	Raw sales data is loaded to AWS S3, transformed in Snowflake using Snowpark (Python), and visualized in an interactive Streamlit-in-Snowflake dashboard 
-	— no external BI tools. 
+	Raw sales data is loaded to AWS S3, transformed in Snowflake using Snowpark (Python), and visualized in an interactive Streamlit-in-Snowflake dashboard. 
 	
 	[-] The dashboard covers five metrics: 
 		- product sales leaderboard
